@@ -86,6 +86,8 @@ print("")
 time.sleep(3)
 print("<<hackerato con successo --> computer collegato con successo>>")
 
-time.sleep(10)
+time.sleep(20)
+print(CREATO DA: LordFenny)
 
+time.sleep(20)
 exit
